@@ -1,0 +1,28 @@
+.profileThumb{
+    min-width: 50px;
+  }
+  
+  .iconStyling{
+    font-size: 1.25rem;
+    cursor: pointer;
+  }
+  
+  .desktopWidth{
+    max-width: 1024px;
+    margin: auto;
+  }
+  
+  .replyDisplay{
+    background-color: rgb(250,250,250);
+  }
+  
+  .fixedMenuFix{
+    margin-top: 4em
+  }
+  
+  .btn{
+    
+    font-weight: bold;
+      color: white;
+    }
+  
